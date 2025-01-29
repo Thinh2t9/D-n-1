@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    height: 100vh; /* Chiều cao toàn màn hình */
+    margin: 0; /* Xóa margin mặc định */
+}
+
+.box {
+    color: #fff;
+    width: 270px;
+    height: 420px;
+    border-radius: 10px;
+    background-color: transparent; /* Nền trong suốt */
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.9); /* Hiệu ứng viền nhòe */
+    
+    display: flex;
+    flex-direction: column; /* Xếp nội dung theo cột */
+    justify-content: center; /* Căn giữa theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều ngang */
+    text-align: center; /* Căn giữa văn bản */
+    padding: 20px; /* Thêm padding để tránh sát mép */
+}
+h3{
+  font-size: 26px
+}
+
+.b{
+  color: #000;
+  width: 240px;
+  height: 96px;
+  background: yellowgreen;
+  margin: 10px ;
+  border-radius: 5px
+}
+.g{
+  color: #000;
+  width: 260px;
+  height: 98px;
+  background: aquamarine;
+  margin: 10px ;
+  border-radius: 5px
+}
+.ts{
+  color: #000;
+  width: 250px;
+  height: 97px;
+  background: violet;
+  margin: 10px ;
+  border-radius: 5px
+}
+.tc{
+  color: #000;
+  width: 240px;
+  height: 97px;
+  background: whitesmoke;
+  margin: 10px ;
+  border-radius: 5px
+}
+.s{
+  color: #000;
+  width: 240px;
+  height: 979px;
+  background: red;
+  margin: 10px ;
+  border-radius: 5px
+}
