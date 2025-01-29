@@ -23,23 +23,25 @@ body {
     padding: 20px; /* Thêm padding để tránh sát mép */
 }
 h3{
-  font-size: 26px
-}
+  font-size: 26px;
+}
+
+
 .g{
   color: #000;
   width: 260px;
   height: 98px;
   background: aquamarine;
-  margin: 10px ;
-  border-radius: 5px
+  margin: 10px;
+  border-radius: 5px;
 }
 .ts{
   color: #000;
   width: 250px;
   height: 97px;
   background: violet;
-  margin: 10px ;
-  border-radius: 5px
+  margin: 10px;
+  border-radius: 5px;
 }
 .tc{
   color: #000;
@@ -47,7 +49,7 @@ h3{
   height: 97px;
   background: whitesmoke;
   margin: 10px ;
-  border-radius: 5px
+  border-radius: 5px;
 }
 .s{
   color: #000;
